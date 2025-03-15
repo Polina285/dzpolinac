@@ -1,0 +1,15 @@
+C:\Users\rusla\Desktop\vegan\dzpolinac\bin\Debug\net9.0\dzpolinac.exe
+C:\Users\rusla\Desktop\vegan\dzpolinac\bin\Debug\net9.0\dzpolinac.deps.json
+C:\Users\rusla\Desktop\vegan\dzpolinac\bin\Debug\net9.0\dzpolinac.runtimeconfig.json
+C:\Users\rusla\Desktop\vegan\dzpolinac\bin\Debug\net9.0\dzpolinac.dll
+C:\Users\rusla\Desktop\vegan\dzpolinac\bin\Debug\net9.0\dzpolinac.pdb
+C:\Users\rusla\Desktop\vegan\dzpolinac\obj\Debug\net9.0\dzpolinac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rusla\Desktop\vegan\dzpolinac\obj\Debug\net9.0\dzpolinac.AssemblyInfoInputs.cache
+C:\Users\rusla\Desktop\vegan\dzpolinac\obj\Debug\net9.0\dzpolinac.AssemblyInfo.cs
+C:\Users\rusla\Desktop\vegan\dzpolinac\obj\Debug\net9.0\dzpolinac.csproj.CoreCompileInputs.cache
+C:\Users\rusla\Desktop\vegan\dzpolinac\obj\Debug\net9.0\dzpolinac.sourcelink.json
+C:\Users\rusla\Desktop\vegan\dzpolinac\obj\Debug\net9.0\dzpolinac.dll
+C:\Users\rusla\Desktop\vegan\dzpolinac\obj\Debug\net9.0\refint\dzpolinac.dll
+C:\Users\rusla\Desktop\vegan\dzpolinac\obj\Debug\net9.0\dzpolinac.pdb
+C:\Users\rusla\Desktop\vegan\dzpolinac\obj\Debug\net9.0\dzpolinac.genruntimeconfig.cache
+C:\Users\rusla\Desktop\vegan\dzpolinac\obj\Debug\net9.0\ref\dzpolinac.dll
